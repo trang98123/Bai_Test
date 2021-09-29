@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [User - hrm]">
+  <parameter name="url" value="https://opensource-demo.orangehrmlive.com"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="reportConfig.ReportNGListener"/>
+  </listeners>
+  <test thread-count="3" name="Run on chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.hrm.employee.Employee_01_Add_Employee">
+        <methods>
+          <include name="deleteAllFilesInreportNGScreenshot"/>
+          <include name="Employee_05_Emergency_Detail"/>
+          <include name="Employee_02_Upload_Avata"/>
+          <include name="Employee_06_Assigned_Dependents"/>
+          <include name="clearnExcutableDriver"/>
+          <include name="Employee_9_Edit_View_Tax"/>
+          <include name="beforeClass"/>
+          <include name="Employee_08_Edit_View_Salary"/>
+          <include name="Employee_10_Qualifications"/>
+          <include name="cleanBrowser"/>
+          <include name="Employee_07_Edit_View_Job"/>
+          <include name="Employee_03_Personal_Details"/>
+          <include name="Employee_04_Contact_Details"/>
+          <include name="Employee_01_Add_New_Employee"/>
+          <include name="Employee_11_Search_Employee"/>
+        </methods>
+      </class> <!-- com.hrm.employee.Employee_01_Add_Employee -->
+    </classes>
+  </test> <!-- Run on chrome(failed) -->
+</suite> <!-- Failed suite [User - hrm] -->

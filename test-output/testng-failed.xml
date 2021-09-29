@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [User - Nop Commerce]">
+  <parameter name="url" value="https://opensource-demo.orangehrmlive.com"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="reportConfig.ReportNGListener"/>
+  </listeners>
+  <test thread-count="3" name="Run on chrome(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.hrm.employee.Employee_01_Add_Employee">
+        <methods>
+          <include name="clearnExcutableDriver"/>
+          <include name="deleteAllFilesInreportNGScreenshot"/>
+          <include name="beforeClass"/>
+          <include name="cleanBrowser"/>
+          <include name="Employee_02_Upload_Avata"/>
+        </methods>
+      </class> <!-- com.hrm.employee.Employee_01_Add_Employee -->
+    </classes>
+  </test> <!-- Run on chrome(failed) -->
+</suite> <!-- Failed suite [User - Nop Commerce] -->

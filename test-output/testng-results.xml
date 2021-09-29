@@ -1,25 +1,348 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:20,605] --------------START delete file in folder -----------
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:20,607] --------------END delete file in folder -----------
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:20,622] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:32,071] Pre-Condition - step 02: Login With Admin role
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:34,662] Add_New_01 - Step 01: Open 'Employee List' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:37,416] Add_New_01 - Step 02: Click to 'Add' button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:38,267] Add_New_01 - Step 03: Enter valid info to 'First Name' textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:38,417] Add_New_01 - Step 04: Enter valid info to 'Last Name' textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:38,554] Add_New_01 - Step 05: Get value of 'Employee ID
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:38,615] Add_New_01 - Step 06: Click to 'Created Login Detail' checkbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:38,909] Add_New_01 - Step 07: Enter valid infor to 'User Name' textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:38,995] Add_New_01 - Step 08: Enter valid infor to 'Password' textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:39,142] Add_New_01 - Step 09: Enter valid infor to 'Confirm Password' textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:39,222] Add_New_01 - Step 10: SelectEnabled value in 'Status' dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:39,307] Add_New_01 - Step 11: Click to 'Save' button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:41,385] Add_New_01 - Step 12: Open 'Enployee List' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:43,467] Add_New_01 - Step 13: Enter valid infor to 'Employee Name' textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:53,569] Add_New_01 - Step 14: Click 'Search' button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:59,200] Add_New_01 - Step 15: Verify Employee Infomation displayed at 'Result Table'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:59,287]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:59,334]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:59,379]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:04:59,384] Employee_02_Upload_Avata - Step 01: Login with employee role
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:01,890] Employee_02_Upload_Avata - Step 02: Open Personal Detail Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:03,006] Employee_02_Upload_Avata - Step 03: Click To Change Photo Image
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:03,888] Employee_02_Upload_Avata - Step 04: Upload new Avata Image
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:03,918] Employee_02_Upload_Avata - Step 05: Click To Upload button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:06,334] Employee_02_Upload_Avata - Step 06: Verify Success message is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:06,395]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:06,396] Employee_02_Upload_Avata - Step 07: Verify new Avatar image is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:06,449]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-09-21 01:05:06,493] Post-Condition: Close browserfirefox
+<br>]]>
+    </line>
   </reporter-output>
-  <suite started-at="2021-05-13T18:13:53Z" name="User Nopcommerce" finished-at="2021-05-13T18:13:53Z" duration-ms="46">
+  <suite started-at="2021-09-20T18:04:20Z" name="User - Nop Commerce" finished-at="2021-09-20T18:05:06Z" duration-ms="45907">
     <groups>
     </groups>
-    <test started-at="2021-05-13T18:13:53Z" name="Run on Chrome" finished-at="2021-05-13T18:13:53Z" duration-ms="46">
-      <class name="com.nopcommerce.user.User_01_Register_Login">
-        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.nopcommerce.user.User_01_Register_Login@367ffa75]" started-at="2021-05-13T18:13:53Z" name="BeforeClass" finished-at="2021-05-13T18:13:53Z" duration-ms="10" status="PASS">
+    <test started-at="2021-09-20T18:04:20Z" name="Run on chrome" finished-at="2021-09-20T18:05:06Z" duration-ms="45907">
+      <class name="com.hrm.employee.Employee_01_Add_Employee">
+        <test-method is-config="true" signature="deleteAllFilesInreportNGScreenshot()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:04:20Z" name="deleteAllFilesInreportNGScreenshot" finished-at="2021-09-20T18:04:20Z" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:20,605] --------------START delete file in folder -----------
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:20,607] --------------END delete file in folder -----------
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteAllFilesInreportNGScreenshot -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:04:20Z" name="beforeClass" finished-at="2021-09-20T18:04:34Z" duration-ms="14033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:20,622] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:32,071] Pre-Condition - step 02: Login With Admin role
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Employee_01_Add_New_Employee()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:04:34Z" name="Employee_01_Add_New_Employee" finished-at="2021-09-20T18:04:59Z" duration-ms="24724" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:34,662] Add_New_01 - Step 01: Open 'Employee List' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:37,416] Add_New_01 - Step 02: Click to 'Add' button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:38,267] Add_New_01 - Step 03: Enter valid info to 'First Name' textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:38,417] Add_New_01 - Step 04: Enter valid info to 'Last Name' textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:38,554] Add_New_01 - Step 05: Get value of 'Employee ID
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:38,615] Add_New_01 - Step 06: Click to 'Created Login Detail' checkbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:38,909] Add_New_01 - Step 07: Enter valid infor to 'User Name' textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:38,995] Add_New_01 - Step 08: Enter valid infor to 'Password' textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:39,142] Add_New_01 - Step 09: Enter valid infor to 'Confirm Password' textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:39,222] Add_New_01 - Step 10: SelectEnabled value in 'Status' dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:39,307] Add_New_01 - Step 11: Click to 'Save' button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:41,385] Add_New_01 - Step 12: Open 'Enployee List' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:43,467] Add_New_01 - Step 13: Enter valid infor to 'Employee Name' textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:53,569] Add_New_01 - Step 14: Click 'Search' button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:59,200] Add_New_01 - Step 15: Verify Employee Infomation displayed at 'Result Table'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:59,287]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:59,334]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:59,379]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Employee_01_Add_New_Employee -->
+        <test-method signature="Employee_02_Upload_Avata()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:04:59Z" name="Employee_02_Upload_Avata" finished-at="2021-09-20T18:05:06Z" duration-ms="7067" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:04:59,384] Employee_02_Upload_Avata - Step 01: Login with employee role
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:01,890] Employee_02_Upload_Avata - Step 02: Open Personal Detail Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:03,006] Employee_02_Upload_Avata - Step 03: Click To Change Photo Image
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:03,888] Employee_02_Upload_Avata - Step 04: Upload new Avata Image
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:03,918] Employee_02_Upload_Avata - Step 05: Click To Upload button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:06,334] Employee_02_Upload_Avata - Step 06: Verify Success message is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:06,395]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:06,396] Employee_02_Upload_Avata - Step 07: Verify new Avatar image is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:06,449]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Employee_02_Upload_Avata -->
+        <test-method signature="Employee_03_Personal_Details()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_03_Personal_Details" finished-at="2021-09-20T18:05:06Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BeforeClass -->
-        <test-method signature="TC_01_Register_Empty_Data()[pri:0, instance:com.nopcommerce.user.User_01_Register_Login@367ffa75]" started-at="2021-05-13T18:13:53Z" name="TC_01_Register_Empty_Data" finished-at="2021-05-13T18:13:53Z" duration-ms="8" status="PASS">
+        </test-method> <!-- Employee_03_Personal_Details -->
+        <test-method signature="Employee_04_Contact_Details()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_04_Contact_Details" finished-at="2021-09-20T18:05:06Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_Register_Empty_Data -->
-        <test-method signature="TC_02_Register_Invalid_Email()[pri:0, instance:com.nopcommerce.user.User_01_Register_Login@367ffa75]" started-at="2021-05-13T18:13:53Z" name="TC_02_Register_Invalid_Email" finished-at="2021-05-13T18:13:53Z" duration-ms="1" status="PASS">
+        </test-method> <!-- Employee_04_Contact_Details -->
+        <test-method signature="Employee_05_Emergency_Detail()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_05_Emergency_Detail" finished-at="2021-09-20T18:05:06Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_02_Register_Invalid_Email -->
-      </class> <!-- com.nopcommerce.user.User_01_Register_Login -->
-    </test> <!-- Run on Chrome -->
-  </suite> <!-- User Nopcommerce -->
+        </test-method> <!-- Employee_05_Emergency_Detail -->
+        <test-method signature="Employee_06_Assigned_Dependents()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_06_Assigned_Dependents" finished-at="2021-09-20T18:05:06Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_06_Assigned_Dependents -->
+        <test-method signature="Employee_07_Edit_View_Job()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_07_Edit_View_Job" finished-at="2021-09-20T18:05:06Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_07_Edit_View_Job -->
+        <test-method signature="Employee_08_Edit_View_Salary()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_08_Edit_View_Salary" finished-at="2021-09-20T18:05:06Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_08_Edit_View_Salary -->
+        <test-method signature="Employee_10_Qualifications()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_10_Qualifications" finished-at="2021-09-20T18:05:06Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_10_Qualifications -->
+        <test-method signature="Employee_11_Search_Employee()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_11_Search_Employee" finished-at="2021-09-20T18:05:06Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_11_Search_Employee -->
+        <test-method signature="Employee_9_Edit_View_Tax()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="Employee_9_Edit_View_Tax" finished-at="2021-09-20T18:05:06Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_9_Edit_View_Tax -->
+        <test-method is-config="true" signature="cleanBrowser(java.lang.String)[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="cleanBrowser" finished-at="2021-09-20T18:05:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-09-21 01:05:06,493] Post-Condition: Close browserfirefox
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cleanBrowser -->
+        <test-method is-config="true" signature="clearnExcutableDriver()[pri:0, instance:com.hrm.employee.Employee_01_Add_Employee@272113c4]" started-at="2021-09-20T18:05:06Z" name="clearnExcutableDriver" finished-at="2021-09-20T18:05:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearnExcutableDriver -->
+      </class> <!-- com.hrm.employee.Employee_01_Add_Employee -->
+    </test> <!-- Run on chrome -->
+  </suite> <!-- User - Nop Commerce -->
 </testng-results>

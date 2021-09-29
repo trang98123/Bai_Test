@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite parallel="false" name="User Nopcommerce">
-  <test name="Run on Chrome">
+<suite parallel="false" name="User - Nop Commerce" thread-count="3">
+<parameter name="url" value="https://opensource-demo.orangehrmlive.com"/>
+
+<listeners>
+ <!--  <listener class-name="org.uncommons.reportng.HTMLReporter" />  --> 
+  <!--   <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />   --> 
+     //xet trang thai test case Pass/Failed
+      <listener class-name="commons.MethodListener" />
+      <!--  <listener class-name="reportConfig.ExtentTestListener"/> --> 
+            <listener class-name="reportConfig.ReportNGListener"/>  
+</listeners> 
+
+  <test name="Run on chrome">
+  <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.nopcommerce.user.User_01_Register_Login"/>
+   <!--   <class name="com.nopcommerce.login.Level_13_Register_Login_Page_Dynamic_Extent_Report"/>--> 
+      <class name="com.hrm.employee.Employee_01_Add_Employee"/>
+      
     </classes>
   </test> 
+
+<!--<test name="Run on Chrome">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopcommerce.login.Level_13_Register_Login_Page_Dynamic_Extent_Report_Close_Browser"/>
+    </classes>
+  </test> 
+  --> 
 </suite> 
