@@ -18,7 +18,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import commons.Basepage;
+import commons.BasePage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 @Listeners(TestListener.class)

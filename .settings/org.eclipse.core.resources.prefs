@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+encoding//actions/commons/BasePage.java=UTF-8
 encoding//actions/commons/BaseTest.java=UTF-8
-encoding//actions/commons/Basepage.java=UTF-8
+encoding//interfaces/pageUI/Web/HomePageUI.java=UTF-8
+encoding//testcases/sotatek/hybird/web/TC_03_Sort.java=UTF-8

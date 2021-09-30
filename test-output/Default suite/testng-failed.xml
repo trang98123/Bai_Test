@@ -3,20 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.nopcommerce.userDemo.Level_02_Register_Login">
+      <class name="sotatek.hybird.tiki.TC_01_Search">
         <methods>
-          <include name="TC_02_Login_Invalid_Email"/>
           <include name="clearnExcutableDriver"/>
           <include name="deleteAllFilesInreportNGScreenshot"/>
-          <include name="TC_06_Login_Email_Da_Dang_Ki_Passwork_Dung"/>
-          <include name="TC_01_Login_Empty_Data"/>
-          <include name="TC_03_Login_Email_Chua_Dang_ki"/>
-          <include name="TC_04_Login_Email_Chua_Dang_Ki_Password_Khong_Nhap"/>
-          <include name="TC_05_Login_Email_Da_Dang_ki_Password_Sai"/>
-          <include name="afterClass"/>
+          <include name="TC_01_Open_Browser_Tiki_SearchIPHONE111"/>
+          <include name="TC_01_Open_Browser_Tiki_SearchIPHONE11"/>
           <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.nopcommerce.userDemo.Level_02_Register_Login -->
+      </class> <!-- sotatek.hybird.tiki.TC_01_Search -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

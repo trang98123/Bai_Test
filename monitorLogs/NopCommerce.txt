@@ -1,32 +1,6 @@
-[INFO ] [2021-09-21 01:04:20,605] --------------START delete file in folder -----------
-[INFO ] [2021-09-21 01:04:20,607] --------------END delete file in folder -----------
-[INFO ] [2021-09-21 01:04:20,622] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
-[INFO ] [2021-09-21 01:04:32,071] Pre-Condition - step 02: Login With Admin role
-[INFO ] [2021-09-21 01:04:34,662] Add_New_01 - Step 01: Open 'Employee List' page
-[INFO ] [2021-09-21 01:04:37,416] Add_New_01 - Step 02: Click to 'Add' button
-[INFO ] [2021-09-21 01:04:38,267] Add_New_01 - Step 03: Enter valid info to 'First Name' textbox
-[INFO ] [2021-09-21 01:04:38,417] Add_New_01 - Step 04: Enter valid info to 'Last Name' textbox
-[INFO ] [2021-09-21 01:04:38,554] Add_New_01 - Step 05: Get value of 'Employee ID
-[INFO ] [2021-09-21 01:04:38,615] Add_New_01 - Step 06: Click to 'Created Login Detail' checkbox
-[INFO ] [2021-09-21 01:04:38,909] Add_New_01 - Step 07: Enter valid infor to 'User Name' textbox
-[INFO ] [2021-09-21 01:04:38,995] Add_New_01 - Step 08: Enter valid infor to 'Password' textbox
-[INFO ] [2021-09-21 01:04:39,142] Add_New_01 - Step 09: Enter valid infor to 'Confirm Password' textbox
-[INFO ] [2021-09-21 01:04:39,222] Add_New_01 - Step 10: SelectEnabled value in 'Status' dropdown
-[INFO ] [2021-09-21 01:04:39,307] Add_New_01 - Step 11: Click to 'Save' button
-[INFO ] [2021-09-21 01:04:41,385] Add_New_01 - Step 12: Open 'Enployee List' page
-[INFO ] [2021-09-21 01:04:43,467] Add_New_01 - Step 13: Enter valid infor to 'Employee Name' textbox
-[INFO ] [2021-09-21 01:04:53,569] Add_New_01 - Step 14: Click 'Search' button
-[INFO ] [2021-09-21 01:04:59,200] Add_New_01 - Step 15: Verify Employee Infomation displayed at 'Result Table'
-[INFO ] [2021-09-21 01:04:59,287]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-09-21 01:04:59,334]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-09-21 01:04:59,379]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-09-21 01:04:59,384] Employee_02_Upload_Avata - Step 01: Login with employee role
-[INFO ] [2021-09-21 01:05:01,890] Employee_02_Upload_Avata - Step 02: Open Personal Detail Page
-[INFO ] [2021-09-21 01:05:03,006] Employee_02_Upload_Avata - Step 03: Click To Change Photo Image
-[INFO ] [2021-09-21 01:05:03,888] Employee_02_Upload_Avata - Step 04: Upload new Avata Image
-[INFO ] [2021-09-21 01:05:03,918] Employee_02_Upload_Avata - Step 05: Click To Upload button
-[INFO ] [2021-09-21 01:05:06,334] Employee_02_Upload_Avata - Step 06: Verify Success message is displayed
-[INFO ] [2021-09-21 01:05:06,395]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-09-21 01:05:06,396] Employee_02_Upload_Avata - Step 07: Verify new Avatar image is displayed
-[INFO ] [2021-09-21 01:05:06,449]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-09-21 01:05:06,493] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-30 20:27:09,810] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 20:27:09,812] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 20:27:09,823] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 20:27:12,651] Step 01: Open browser
+[INFO ] [2021-09-30 20:27:25,937] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:27:26,259] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button

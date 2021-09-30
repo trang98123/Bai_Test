@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="User - Nop Commerce" thread-count="3">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="reportConfig.ReportNGListener" />
+	</listeners>
+
+	<test name="Run on chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="sotatek.hybird.web.TC_02_Report_GetText" />
+
+		</classes>
+	</test>
+
+</suite>

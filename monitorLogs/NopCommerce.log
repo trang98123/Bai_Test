@@ -3386,3 +3386,487 @@ Session ID: d749c973-4bfb-4b48-83d0-be4641a5df32
 [INFO ] [2021-09-21 01:05:06,396] Employee_02_Upload_Avata - Step 07: Verify new Avatar image is displayed
 [INFO ] [2021-09-21 01:05:06,449]  -------------------------- PASSED -------------------------- 
 [INFO ] [2021-09-21 01:05:06,493] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 14:53:54,243] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 14:53:54,246] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 14:53:54,258] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 14:53:57,802] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 14:54:29,289] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 14:54:29,291] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 14:54:29,305] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 14:54:40,809] Pre-Condition - step 02: Login With Admin role
+[INFO ] [2021-09-29 14:54:41,629] Add_New_01 - Step 01: Open 'Employee List' page
+[INFO ] [2021-09-29 14:54:42,484] Employee_02_Upload_Avata - Step 01: Login with employee role
+[INFO ] [2021-09-29 14:54:42,585] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 15:16:02,821] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 15:16:02,823] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 15:16:02,851] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 15:16:22,148] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 15:16:36,788] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 15:16:36,790] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 15:16:36,801] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 15:16:42,674] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 15:18:33,439] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 15:18:33,441] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 15:18:33,460] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 15:19:51,541] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 15:19:51,542] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 15:19:51,553] Pre-Condition - Step 01: Open browserchromeand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 15:19:55,768] Post-Condition: Close browserchrome
+[INFO ] [2021-09-29 15:20:43,300] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 15:20:43,302] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 15:20:43,317] Pre-Condition - Step 01: Open browserchromeand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 15:20:45,929] Post-Condition: Close browserchrome
+[INFO ] [2021-09-29 15:20:47,128] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 15:21:07,968] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 15:21:07,970] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 15:21:07,984] Pre-Condition - Step 01: Open browserfirefoxand navigate tohttps://opensource-demo.orangehrmlive.com
+[INFO ] [2021-09-29 15:21:19,972] Pre-Condition - step 02: Login With Admin role
+[INFO ] [2021-09-29 15:21:23,995] Add_New_01 - Step 01: Open 'Employee List' page
+[INFO ] [2021-09-29 15:21:27,963] Add_New_01 - Step 02: Click to 'Add' button
+[INFO ] [2021-09-29 15:21:29,743] Add_New_01 - Step 03: Enter valid info to 'First Name' textbox
+[INFO ] [2021-09-29 15:21:29,986] Add_New_01 - Step 04: Enter valid info to 'Last Name' textbox
+[INFO ] [2021-09-29 15:21:30,090] Add_New_01 - Step 05: Get value of 'Employee ID
+[INFO ] [2021-09-29 15:21:30,163] Add_New_01 - Step 06: Click to 'Created Login Detail' checkbox
+[INFO ] [2021-09-29 15:21:30,479] Add_New_01 - Step 07: Enter valid infor to 'User Name' textbox
+[INFO ] [2021-09-29 15:21:30,541] Add_New_01 - Step 08: Enter valid infor to 'Password' textbox
+[INFO ] [2021-09-29 15:21:30,676] Add_New_01 - Step 09: Enter valid infor to 'Confirm Password' textbox
+[INFO ] [2021-09-29 15:21:30,748] Add_New_01 - Step 10: SelectEnabled value in 'Status' dropdown
+[INFO ] [2021-09-29 15:21:30,821] Add_New_01 - Step 11: Click to 'Save' button
+[INFO ] [2021-09-29 15:21:34,130] Add_New_01 - Step 12: Open 'Enployee List' page
+[INFO ] [2021-09-29 15:21:39,237] Add_New_01 - Step 13: Enter valid infor to 'Employee Name' textbox
+[INFO ] [2021-09-29 15:21:49,364] Add_New_01 - Step 14: Click 'Search' button
+[INFO ] [2021-09-29 15:21:57,304] Add_New_01 - Step 15: Verify Employee Infomation displayed at 'Result Table'
+[INFO ] [2021-09-29 15:21:57,393]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 15:21:57,444]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 15:21:57,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 15:21:57,497] Employee_02_Upload_Avata - Step 01: Login with employee role
+[INFO ] [2021-09-29 15:22:03,229] Employee_02_Upload_Avata - Step 02: Open Personal Detail Page
+[INFO ] [2021-09-29 15:22:06,951] Employee_02_Upload_Avata - Step 03: Click To Change Photo Image
+[INFO ] [2021-09-29 15:22:09,622] Employee_02_Upload_Avata - Step 04: Upload new Avata Image
+[INFO ] [2021-09-29 15:22:09,648] Employee_02_Upload_Avata - Step 05: Click To Upload button
+[INFO ] [2021-09-29 15:22:15,568] Employee_02_Upload_Avata - Step 06: Verify Success message is displayed
+[INFO ] [2021-09-29 15:22:15,631]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 15:22:15,632] Employee_02_Upload_Avata - Step 07: Verify new Avatar image is displayed
+[INFO ] [2021-09-29 15:22:15,695]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 15:22:15,742] Post-Condition: Close browserfirefox
+[INFO ] [2021-09-29 16:02:08,256] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 16:02:08,259] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 16:02:48,459] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 16:02:48,461] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 16:02:48,473] Pre-Condition - Step 01: Open browserfirefox
+[INFO ] [2021-09-29 16:03:11,447] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 16:03:11,449] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 16:03:11,458] Pre-Condition - Step 01: Open browserfirefox
+[INFO ] [2021-09-29 16:59:13,427] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 16:59:13,429] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 16:59:13,443] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 16:59:23,759] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 16:59:25,852] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 16:59:35,936] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 16:59:35,939] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 16:59:35,948] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 16:59:45,906] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 16:59:57,034] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 16:59:57,425] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:01:01,329] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 17:01:01,331] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 17:01:01,344] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 17:01:11,234] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 17:01:13,327] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:01:14,260] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:01:29,138] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 17:03:59,487] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 17:03:59,488] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 17:03:59,498] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 17:04:06,548] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 17:04:08,384] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:04:56,232] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 17:04:56,234] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 17:04:56,246] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 17:05:03,623] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 17:05:06,012] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:05:11,647] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:05:59,007] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 17:05:59,010] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 17:05:59,024] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 17:06:05,959] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 17:06:18,307] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:06:18,907] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:06:29,380] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 17:22:09,173] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 17:22:09,174] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 17:22:09,186] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 17:22:16,395] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 17:22:39,931] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:22:40,686] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 17:22:51,238] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 18:48:50,685] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 18:48:50,687] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 18:48:50,705] Pre-Condition: Open browserfirefox
+[INFO ] [2021-09-29 18:49:00,112] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 18:49:00,629] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 18:51:02,432] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 18:51:02,434] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 18:51:02,444] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 18:51:06,338] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 18:51:06,892] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:04:26,085] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:04:26,087] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:04:26,101] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:04:29,025] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:04:30,101] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:21:10,712] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:21:10,714] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:21:10,725] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:21:14,894] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:21:15,367] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:22:03,610] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:22:03,613] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:22:03,624] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:22:07,810] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:22:08,298] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:22:59,068] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:22:59,070] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:22:59,083] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:23:03,111] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:23:03,654] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:28:16,144] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:28:16,147] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:28:16,161] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:28:20,675] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:28:46,076] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:29:58,700] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:29:58,702] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:29:58,713] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:30:03,287] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:33:28,849] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:33:28,851] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:33:28,867] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:33:33,119] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:33:45,405] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:33:45,406] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:33:45,418] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:33:50,319] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:34:17,571] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:34:17,572] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:34:17,588] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:34:22,307] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:41:10,431] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:41:10,433] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:41:10,457] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:41:15,449] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:44:40,080] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:44:40,082] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:44:40,093] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:44:45,117] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:45:13,209] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:45:14,162] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:45:42,596] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 19:45:42,679]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-09-29 19:55:50,620] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 19:55:50,622] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 19:55:50,637] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 19:55:55,307] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 19:56:12,384] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 19:56:12,658] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:03:05,459] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 20:03:05,462] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 20:03:05,475] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 20:03:09,932] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:03:30,982] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:03:31,319] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:03:49,487] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 20:03:49,552]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 20:29:15,449] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 20:29:15,452] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 20:29:15,468] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 20:29:20,202] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:29:53,792] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:29:54,959] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:30:16,717] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 20:30:16,890]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 20:30:16,899] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:30:37,749] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:30:37,987] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:35:12,389] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 20:35:12,391] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 20:35:26,916] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 20:35:26,918] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 20:35:26,933] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 20:35:31,162] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:35:58,806] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:35:59,022] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:36:18,333] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 20:36:18,396]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 20:36:18,403] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:36:42,555] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:36:42,795] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:40:32,046] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 20:40:32,048] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 20:40:32,062] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 20:40:36,530] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:41:06,396] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:41:06,595] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:41:29,358] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 20:41:29,430]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 20:41:29,438] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 20:41:59,758] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:42:00,017] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 20:42:11,095] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 20:42:11,201]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 22:12:35,446] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:12:35,449] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:12:35,458] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:12:39,051] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:12:45,313] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:14:23,590] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:14:23,593] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:14:23,605] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:14:26,228] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:14:38,663] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:14:39,211] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:16:27,379] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:16:27,381] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:16:27,395] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:16:30,048] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:16:40,866] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:16:41,383] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:16:52,978] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 22:16:53,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 22:28:48,474] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:28:48,477] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:28:48,491] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:28:51,690] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:28:57,247] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:33:25,849] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:33:25,851] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:33:25,869] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:33:28,936] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:33:34,728] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:33:59,963] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:37:48,061] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:37:48,063] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:37:48,077] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:37:51,047] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:38:04,547] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:43:13,430] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:43:13,433] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:43:13,445] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:43:17,016] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:43:45,731] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:43:45,893] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:46:19,335] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:46:19,337] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:46:19,349] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:46:22,330] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:46:28,184] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:46:28,362] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:48:42,377] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:48:42,379] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:48:42,392] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:48:45,161] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:48:50,587] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:48:51,193] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:49:19,719] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:49:19,721] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:49:19,736] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:49:21,431] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 22:49:22,775] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:49:29,795] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:49:29,994] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:49:48,336] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 22:50:52,910] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:50:52,914] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:50:52,933] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:50:55,868] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:51:04,482] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:56:24,677] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:56:24,678] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:56:24,691] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:56:27,340] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:56:41,215] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 22:57:29,297] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 22:57:29,299] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 22:57:29,313] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 22:57:32,042] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 22:57:34,796] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:00:24,254] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 23:00:24,257] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 23:00:24,269] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 23:00:26,891] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 23:00:29,788] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:00:30,170] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:00:44,510] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 23:00:44,612]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 23:51:51,825] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 23:51:51,828] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 23:51:51,840] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 23:51:55,243] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 23:51:58,041] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:51:58,714] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:52:13,142] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 23:52:27,704] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:52:28,018] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:55:05,370] --------------START delete file in folder -----------
+[INFO ] [2021-09-29 23:55:05,372] --------------END delete file in folder -----------
+[INFO ] [2021-09-29 23:55:05,384] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-29 23:55:08,240] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 23:55:11,342] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:55:11,807] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:55:26,076]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-09-29 23:55:26,081] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 23:55:26,158]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-29 23:55:26,383] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-29 23:55:41,852] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:55:44,476] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-29 23:55:56,719]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-09-29 23:55:56,719] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-29 23:55:56,793]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-30 00:06:51,308] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:06:51,310] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:06:51,322] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 00:06:54,279] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:06:57,405] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:06:57,643] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:07:11,162] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:07:11,296]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-09-30 00:07:11,300] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-30 00:07:11,382]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-30 00:07:11,591] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:07:25,529] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:07:26,142] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:07:37,514] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:07:37,937]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-09-30 00:07:37,937] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Verify
+[INFO ] [2021-09-30 00:07:38,006]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-09-30 00:48:24,125] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:48:24,127] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:48:24,134] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:49:46,481] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:49:46,484] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:49:46,496] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:51:56,666] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:51:56,669] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:51:56,687] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 00:52:00,169] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:52:12,039] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:53:15,148] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:53:15,150] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:53:15,163] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 00:53:18,722] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:53:35,253] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:54:58,552] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:54:58,554] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:54:58,575] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 00:55:02,107] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:55:18,250] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:55:20,651] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:58:47,082] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 00:58:47,084] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 00:58:47,099] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 00:58:50,349] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 00:59:04,686] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 00:59:05,737] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:09:40,784] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:09:40,787] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:09:40,797] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:09:44,275] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 01:09:59,165] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:10:00,371] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:13:26,039] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:13:26,041] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:13:26,053] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:13:29,127] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 01:13:46,251] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:13:47,061] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:21:09,893] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:21:09,896] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:21:09,911] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:22:55,133] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:22:55,135] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:22:55,154] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:22:59,485] Step 01: Open browser
+[INFO ] [2021-09-30 01:23:23,593] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:23:23,595] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:23:23,607] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:23:50,278] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:23:50,280] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:23:50,292] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:23:53,649] Step 01: Open browser
+[INFO ] [2021-09-30 01:24:07,415] Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:24:08,308] Step 03: Click To Search Button
+[INFO ] [2021-09-30 01:26:57,262] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 01:26:57,265] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 01:26:57,283] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 01:27:00,750] Step 01: Open browser
+[INFO ] [2021-09-30 01:27:18,551] Step 02: Search Iphone 11
+[INFO ] [2021-09-30 01:27:19,477] Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:22:26,880] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 19:22:26,882] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 19:22:26,892] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 19:22:31,747] Step 01: Open browser
+[INFO ] [2021-09-30 19:22:52,874] Step 02: Search Iphone 11
+[INFO ] [2021-09-30 19:22:53,255] Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:23:04,539] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 19:23:10,111] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 19:23:10,265] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:23:37,433] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 19:23:37,436] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 19:23:37,469] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 19:23:41,111] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 19:23:46,087] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 19:23:46,496] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:25:40,415] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 19:25:40,417] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 19:25:40,433] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 19:25:43,394] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 19:25:53,994] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 19:25:54,142] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:26:19,413] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 19:26:19,756] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:38:56,178] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 19:38:56,180] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 19:38:56,196] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 19:38:58,805] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 19:39:09,231] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 19:39:09,763] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 19:39:37,955] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 19:39:38,275] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:12:08,609] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 20:12:08,611] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 20:12:08,622] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 20:12:11,513] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 20:12:14,229] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:12:14,566] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:12:43,136] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:12:43,455] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:14:45,714] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 20:14:45,716] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 20:14:45,728] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 20:14:48,575] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 20:14:51,947] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:14:52,505] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:15:13,079] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:15:13,463] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:16:10,274] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 20:16:10,277] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 20:16:10,287] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 20:16:13,040] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 20:16:17,574] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:16:18,029] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:16:40,095] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:16:40,386] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:19:36,519] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 20:19:36,521] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 20:19:36,532] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 20:19:39,292] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 01: Open browser
+[INFO ] [2021-09-30 20:19:42,447] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:19:42,816] TC_01_Open_Browser_Tiki_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:20:02,003] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:20:02,311] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
+[INFO ] [2021-09-30 20:27:09,810] --------------START delete file in folder -----------
+[INFO ] [2021-09-30 20:27:09,812] --------------END delete file in folder -----------
+[INFO ] [2021-09-30 20:27:09,823] Pre-Condition: Open browserchrome
+[INFO ] [2021-09-30 20:27:12,651] Step 01: Open browser
+[INFO ] [2021-09-30 20:27:25,937] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - SStep 02: Input Value To Search Textbox
+[INFO ] [2021-09-30 20:27:26,259] TC_02_Open_Browser_BestBuy_SearchIPHONE11 - Step 03: Click To Search Button
